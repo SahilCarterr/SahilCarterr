@@ -1,4 +1,6 @@
-![Green Gaming Channel YouTube Channel Art](https://github.com/SahilCarterr/SahilCarterr/assets/110806554/cfd7a833-4cc6-4592-aaf2-9ba878e853a9)
+
+![Green Gaming Channel YouTube Channel Art (2)](https://github.com/SahilCarterr/SahilCarterr/assets/110806554/d97451f8-435f-483b-8f6d-08e46a8f30e8)
+
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
